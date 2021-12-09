@@ -10,6 +10,8 @@ const App = () => {
     { id: 2, text: "Eggs" },
     { id: 3, text: "Bread" },
     { id: 4, text: "Juice" },
+    { id: 5, text: "Juice" },
+    { id: 6, text: "Juice" },
   ]);
 
   const deleteItem = (id) => {
